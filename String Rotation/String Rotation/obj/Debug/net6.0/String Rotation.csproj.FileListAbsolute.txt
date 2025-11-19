@@ -1,0 +1,14 @@
+C:\My folder\C#\String Rotation\String Rotation\bin\Debug\net6.0\String Rotation.exe
+C:\My folder\C#\String Rotation\String Rotation\bin\Debug\net6.0\String Rotation.deps.json
+C:\My folder\C#\String Rotation\String Rotation\bin\Debug\net6.0\String Rotation.runtimeconfig.json
+C:\My folder\C#\String Rotation\String Rotation\bin\Debug\net6.0\String Rotation.dll
+C:\My folder\C#\String Rotation\String Rotation\bin\Debug\net6.0\String Rotation.pdb
+C:\My folder\C#\String Rotation\String Rotation\obj\Debug\net6.0\String Rotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\My folder\C#\String Rotation\String Rotation\obj\Debug\net6.0\String Rotation.AssemblyInfoInputs.cache
+C:\My folder\C#\String Rotation\String Rotation\obj\Debug\net6.0\String Rotation.AssemblyInfo.cs
+C:\My folder\C#\String Rotation\String Rotation\obj\Debug\net6.0\String Rotation.csproj.CoreCompileInputs.cache
+C:\My folder\C#\String Rotation\String Rotation\obj\Debug\net6.0\String Rotation.dll
+C:\My folder\C#\String Rotation\String Rotation\obj\Debug\net6.0\refint\String Rotation.dll
+C:\My folder\C#\String Rotation\String Rotation\obj\Debug\net6.0\String Rotation.pdb
+C:\My folder\C#\String Rotation\String Rotation\obj\Debug\net6.0\String Rotation.genruntimeconfig.cache
+C:\My folder\C#\String Rotation\String Rotation\obj\Debug\net6.0\ref\String Rotation.dll

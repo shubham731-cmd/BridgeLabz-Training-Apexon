@@ -1,0 +1,14 @@
+C:\My folder\C#\Find the First Non-Repeating Character\Find the First Non-Repeating Character\bin\Debug\net6.0\Find the First Non-Repeating Character.exe
+C:\My folder\C#\Find the First Non-Repeating Character\Find the First Non-Repeating Character\bin\Debug\net6.0\Find the First Non-Repeating Character.deps.json
+C:\My folder\C#\Find the First Non-Repeating Character\Find the First Non-Repeating Character\bin\Debug\net6.0\Find the First Non-Repeating Character.runtimeconfig.json
+C:\My folder\C#\Find the First Non-Repeating Character\Find the First Non-Repeating Character\bin\Debug\net6.0\Find the First Non-Repeating Character.dll
+C:\My folder\C#\Find the First Non-Repeating Character\Find the First Non-Repeating Character\bin\Debug\net6.0\Find the First Non-Repeating Character.pdb
+C:\My folder\C#\Find the First Non-Repeating Character\Find the First Non-Repeating Character\obj\Debug\net6.0\Find the First Non-Repeating Character.GeneratedMSBuildEditorConfig.editorconfig
+C:\My folder\C#\Find the First Non-Repeating Character\Find the First Non-Repeating Character\obj\Debug\net6.0\Find the First Non-Repeating Character.AssemblyInfoInputs.cache
+C:\My folder\C#\Find the First Non-Repeating Character\Find the First Non-Repeating Character\obj\Debug\net6.0\Find the First Non-Repeating Character.AssemblyInfo.cs
+C:\My folder\C#\Find the First Non-Repeating Character\Find the First Non-Repeating Character\obj\Debug\net6.0\Find the First Non-Repeating Character.csproj.CoreCompileInputs.cache
+C:\My folder\C#\Find the First Non-Repeating Character\Find the First Non-Repeating Character\obj\Debug\net6.0\Find the First Non-Repeating Character.dll
+C:\My folder\C#\Find the First Non-Repeating Character\Find the First Non-Repeating Character\obj\Debug\net6.0\refint\Find the First Non-Repeating Character.dll
+C:\My folder\C#\Find the First Non-Repeating Character\Find the First Non-Repeating Character\obj\Debug\net6.0\Find the First Non-Repeating Character.pdb
+C:\My folder\C#\Find the First Non-Repeating Character\Find the First Non-Repeating Character\obj\Debug\net6.0\Find the First Non-Repeating Character.genruntimeconfig.cache
+C:\My folder\C#\Find the First Non-Repeating Character\Find the First Non-Repeating Character\obj\Debug\net6.0\ref\Find the First Non-Repeating Character.dll

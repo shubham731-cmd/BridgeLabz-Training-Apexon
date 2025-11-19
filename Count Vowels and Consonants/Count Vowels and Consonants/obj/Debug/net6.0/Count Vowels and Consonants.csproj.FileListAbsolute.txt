@@ -1,0 +1,14 @@
+C:\My folder\C#\Count Vowels and Consonants\Count Vowels and Consonants\obj\Debug\net6.0\Count Vowels and Consonants.GeneratedMSBuildEditorConfig.editorconfig
+C:\My folder\C#\Count Vowels and Consonants\Count Vowels and Consonants\obj\Debug\net6.0\Count Vowels and Consonants.AssemblyInfoInputs.cache
+C:\My folder\C#\Count Vowels and Consonants\Count Vowels and Consonants\obj\Debug\net6.0\Count Vowels and Consonants.AssemblyInfo.cs
+C:\My folder\C#\Count Vowels and Consonants\Count Vowels and Consonants\obj\Debug\net6.0\Count Vowels and Consonants.csproj.CoreCompileInputs.cache
+C:\My folder\C#\Count Vowels and Consonants\Count Vowels and Consonants\bin\Debug\net6.0\Count Vowels and Consonants.exe
+C:\My folder\C#\Count Vowels and Consonants\Count Vowels and Consonants\bin\Debug\net6.0\Count Vowels and Consonants.deps.json
+C:\My folder\C#\Count Vowels and Consonants\Count Vowels and Consonants\bin\Debug\net6.0\Count Vowels and Consonants.runtimeconfig.json
+C:\My folder\C#\Count Vowels and Consonants\Count Vowels and Consonants\bin\Debug\net6.0\Count Vowels and Consonants.dll
+C:\My folder\C#\Count Vowels and Consonants\Count Vowels and Consonants\bin\Debug\net6.0\Count Vowels and Consonants.pdb
+C:\My folder\C#\Count Vowels and Consonants\Count Vowels and Consonants\obj\Debug\net6.0\Count Vowels and Consonants.dll
+C:\My folder\C#\Count Vowels and Consonants\Count Vowels and Consonants\obj\Debug\net6.0\refint\Count Vowels and Consonants.dll
+C:\My folder\C#\Count Vowels and Consonants\Count Vowels and Consonants\obj\Debug\net6.0\Count Vowels and Consonants.pdb
+C:\My folder\C#\Count Vowels and Consonants\Count Vowels and Consonants\obj\Debug\net6.0\Count Vowels and Consonants.genruntimeconfig.cache
+C:\My folder\C#\Count Vowels and Consonants\Count Vowels and Consonants\obj\Debug\net6.0\ref\Count Vowels and Consonants.dll

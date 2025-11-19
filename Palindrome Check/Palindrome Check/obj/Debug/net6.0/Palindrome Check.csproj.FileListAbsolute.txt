@@ -1,0 +1,14 @@
+C:\My folder\C#\Palindrome Check\Palindrome Check\bin\Debug\net6.0\Palindrome Check.exe
+C:\My folder\C#\Palindrome Check\Palindrome Check\bin\Debug\net6.0\Palindrome Check.deps.json
+C:\My folder\C#\Palindrome Check\Palindrome Check\bin\Debug\net6.0\Palindrome Check.runtimeconfig.json
+C:\My folder\C#\Palindrome Check\Palindrome Check\bin\Debug\net6.0\Palindrome Check.dll
+C:\My folder\C#\Palindrome Check\Palindrome Check\bin\Debug\net6.0\Palindrome Check.pdb
+C:\My folder\C#\Palindrome Check\Palindrome Check\obj\Debug\net6.0\Palindrome Check.GeneratedMSBuildEditorConfig.editorconfig
+C:\My folder\C#\Palindrome Check\Palindrome Check\obj\Debug\net6.0\Palindrome Check.AssemblyInfoInputs.cache
+C:\My folder\C#\Palindrome Check\Palindrome Check\obj\Debug\net6.0\Palindrome Check.AssemblyInfo.cs
+C:\My folder\C#\Palindrome Check\Palindrome Check\obj\Debug\net6.0\Palindrome Check.csproj.CoreCompileInputs.cache
+C:\My folder\C#\Palindrome Check\Palindrome Check\obj\Debug\net6.0\Palindrome Check.dll
+C:\My folder\C#\Palindrome Check\Palindrome Check\obj\Debug\net6.0\refint\Palindrome Check.dll
+C:\My folder\C#\Palindrome Check\Palindrome Check\obj\Debug\net6.0\Palindrome Check.pdb
+C:\My folder\C#\Palindrome Check\Palindrome Check\obj\Debug\net6.0\Palindrome Check.genruntimeconfig.cache
+C:\My folder\C#\Palindrome Check\Palindrome Check\obj\Debug\net6.0\ref\Palindrome Check.dll

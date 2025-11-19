@@ -1,0 +1,14 @@
+C:\My folder\C#\Anagram Check\Anagram Check\obj\Debug\net6.0\Anagram Check.GeneratedMSBuildEditorConfig.editorconfig
+C:\My folder\C#\Anagram Check\Anagram Check\obj\Debug\net6.0\Anagram Check.AssemblyInfoInputs.cache
+C:\My folder\C#\Anagram Check\Anagram Check\obj\Debug\net6.0\Anagram Check.AssemblyInfo.cs
+C:\My folder\C#\Anagram Check\Anagram Check\obj\Debug\net6.0\Anagram Check.csproj.CoreCompileInputs.cache
+C:\My folder\C#\Anagram Check\Anagram Check\bin\Debug\net6.0\Anagram Check.exe
+C:\My folder\C#\Anagram Check\Anagram Check\bin\Debug\net6.0\Anagram Check.deps.json
+C:\My folder\C#\Anagram Check\Anagram Check\bin\Debug\net6.0\Anagram Check.runtimeconfig.json
+C:\My folder\C#\Anagram Check\Anagram Check\bin\Debug\net6.0\Anagram Check.dll
+C:\My folder\C#\Anagram Check\Anagram Check\bin\Debug\net6.0\Anagram Check.pdb
+C:\My folder\C#\Anagram Check\Anagram Check\obj\Debug\net6.0\Anagram Check.dll
+C:\My folder\C#\Anagram Check\Anagram Check\obj\Debug\net6.0\refint\Anagram Check.dll
+C:\My folder\C#\Anagram Check\Anagram Check\obj\Debug\net6.0\Anagram Check.pdb
+C:\My folder\C#\Anagram Check\Anagram Check\obj\Debug\net6.0\Anagram Check.genruntimeconfig.cache
+C:\My folder\C#\Anagram Check\Anagram Check\obj\Debug\net6.0\ref\Anagram Check.dll

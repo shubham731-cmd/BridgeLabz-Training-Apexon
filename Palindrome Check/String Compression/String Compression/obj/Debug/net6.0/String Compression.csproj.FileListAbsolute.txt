@@ -1,0 +1,14 @@
+C:\My folder\C#\String Compression\String Compression\obj\Debug\net6.0\String Compression.GeneratedMSBuildEditorConfig.editorconfig
+C:\My folder\C#\String Compression\String Compression\obj\Debug\net6.0\String Compression.AssemblyInfoInputs.cache
+C:\My folder\C#\String Compression\String Compression\obj\Debug\net6.0\String Compression.AssemblyInfo.cs
+C:\My folder\C#\String Compression\String Compression\obj\Debug\net6.0\String Compression.csproj.CoreCompileInputs.cache
+C:\My folder\C#\String Compression\String Compression\bin\Debug\net6.0\String Compression.exe
+C:\My folder\C#\String Compression\String Compression\bin\Debug\net6.0\String Compression.deps.json
+C:\My folder\C#\String Compression\String Compression\bin\Debug\net6.0\String Compression.runtimeconfig.json
+C:\My folder\C#\String Compression\String Compression\bin\Debug\net6.0\String Compression.dll
+C:\My folder\C#\String Compression\String Compression\bin\Debug\net6.0\String Compression.pdb
+C:\My folder\C#\String Compression\String Compression\obj\Debug\net6.0\String Compression.dll
+C:\My folder\C#\String Compression\String Compression\obj\Debug\net6.0\refint\String Compression.dll
+C:\My folder\C#\String Compression\String Compression\obj\Debug\net6.0\String Compression.pdb
+C:\My folder\C#\String Compression\String Compression\obj\Debug\net6.0\String Compression.genruntimeconfig.cache
+C:\My folder\C#\String Compression\String Compression\obj\Debug\net6.0\ref\String Compression.dll
